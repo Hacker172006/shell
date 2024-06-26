@@ -1,5 +1,3 @@
-# Nombre del Proyecto
-
 está es la mejor herramienta para termux
 
 ## Instalación
@@ -9,7 +7,7 @@ se detallan los pasos para instalar
 la herramienta en Termux:
 _______________________
 
-pkg install python -y
+```pkg install python -y```
 
 git clone https://github.com/Hacker172006/shell.git
 
